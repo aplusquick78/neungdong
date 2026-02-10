@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://neungdong.8222quick.com/sitemap.xml
+
+
+
